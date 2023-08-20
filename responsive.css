@@ -1,0 +1,141 @@
+@media screen and (max-width: 600px) {
+  .play{
+    width: 40px;
+  }
+  .video{
+    height: 35vh;
+  }
+  .video h2{
+    font-size: 3rem;
+  }
+  .video h3{
+    font-size: 3rem;
+  }
+  nav {
+    flex-direction: column;
+  }
+  .maindepervibe {
+    margin: 4px 0px;
+  }
+  .extrapadding {
+    padding: 0px;
+  }
+  .mainimg {
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+  }
+  .img1{
+    width: 72vw;
+    height: 21vh;
+  }
+  .img2con{
+    font-size: 1.8rem;
+  }
+  .imgconflex h5{
+    font-size: 1.4rem;
+  }
+  .mainimgcontent{
+    font-size: 3.5rem ;
+  }
+  .mainimgheading{
+    font-size: 7rem;
+  }
+}
+
+@media(min-width : 601px ) and (  max-width: 866px) {
+  nav {
+    flex-direction: column;
+  }
+  .maindepervibe {
+    margin: 4px 0px;
+  }
+  .extrapadding {
+    padding: 0px;
+  }
+  .mainimg {
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+  }
+  .img1{
+    width: 72vw;
+    height: 21vh;
+  }
+  .img2con{
+    font-size: 2rem;
+  }
+  .imgconflex h5{
+    font-size: 1.6rem;
+  }
+  .video h2{
+    font-size: 4rem;
+  }
+  .video h3{
+    font-size: 4rem;
+  }
+  .play{
+    width: 50px;
+  }
+  .video{
+    height: 60vh;
+  }
+  .mainimgcontent{
+    font-size: 3.5rem ;
+  }
+  .mainimgheading{
+    font-size: 10rem;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  
+  .img1 {
+    width: 70vw;
+    height: 21vh;
+    /* background-position-y: initial; */
+    /* background-position: fixed; */
+    background-position: center;
+    /* padding: 3px ; */
+  }
+  .img21{
+    width: 70vw;
+    height: 21vh;
+    /* background-position-y: initial; */
+    background-position: center;
+    /* padding: 3px ; */
+  }
+  .img22{
+    width: 70vw;
+    height: 21vh;
+    /* background-position-y:; */
+    background-position: center;
+    
+    /* padding: 3px; */
+  }
+  .img2con{
+    font-size: 1.8rem;
+  }
+}
+
+/* ajuuuuu------------------------------ */
+
+/* @media screen and (max-width: 774px) {
+  .img1 {
+    width: 100%;
+  }
+  @media screen and (max-width: 750px) {
+    .div1img1 {
+      width: 100%;
+      height: 400px;
+      background-position-y: top;
+    }
+    .div2{
+      width: 100%;
+      margin-top: 50px;
+    }
+    .div1{
+      width: 100%;
+    }
+  }
+} */

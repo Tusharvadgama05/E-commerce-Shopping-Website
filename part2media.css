@@ -1,0 +1,39 @@
+@media (min-width: 800px) and (max-width: 900px) {
+    .imgs {
+      /* width: 34%; */
+      /* background-position: center; */
+      background-size: cover;
+      height: 465px;
+    }
+  }
+  @media (min-width: 500px) and (max-width: 799px) {
+    .imgs {
+      /* width: 34%; */
+      /* background-position: center; */
+      background-size: cover;
+      height: 365px;
+    }
+  }
+  @media screen and (max-width: 499px) {
+    .imgs {
+      /* width: 34%; */
+      /* background-position: center; */
+      background-size: cover;
+      height: 265px;
+    }
+    .center{
+      padding : 3px;
+    }
+    .maincolor {
+      font-size: 25px;
+      padding-top: 20px;
+    }
+    .maincolor1 {
+      font-size: 15px;
+    }
+    .maincolor2 {
+      font-size: 20px;
+      padding-bottom: 20px;
+    }
+  }
+  
