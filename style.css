@@ -67,7 +67,7 @@ div ul li {
   background-color: blueviolet;
   height: calc(100vh - 90px);
   background: rgba(131, 131, 131, 0.3);
-  background-image: url(/images/mainimg.png);
+  background-image: url(./images/mainimg.png);
   background-position: center;
   background-size: cover;
   opacity: 0.8;
@@ -119,7 +119,7 @@ div ul li {
   flex-wrap: wrap;
 }
 .img1 {
-  background-image: url("/images/blackgirl.png");
+  background-image: url("./images/blackgirl.png");
   border: 2px solid rgb(8, 8, 145);
   width: 33vw;
   /* background-position: center; */
@@ -134,7 +134,7 @@ div ul li {
   justify-content: space-between;
 }
 .img21 {
-  background-image: url("/images/boy.png");
+  background-image: url("./images/boy.png");
   border: 2px solid green;
   width: 34vw;
   height: 33vh;
@@ -144,7 +144,7 @@ div ul li {
   background-position: center;
 }
 .img22 {
-  background-image: url("/images/girl.png");
+  background-image: url("./images/girl.png");
   border: 2px solid green;
   width: 34vw;
   height: 33vh;
@@ -171,7 +171,7 @@ div ul li {
 .video {
   border: 1px solid green;
   /* background-color: #dd0000; */
-  background-image: url("/images/video.png");
+  background-image: url("./images/video.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -228,7 +228,7 @@ div ul li {
   /* border: 2px solid rgb(220, 5, 249); */
   /* background-color: #d2d242; */
   width: 53%;
-  background-image: url("/images/refineyourstyle3.png");
+  background-image: url("./images/refineyourstyle3.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -409,7 +409,7 @@ div ul li {
 .yellowgirl {
   width: 100%;
   /* border: 1px solid green; */
-  background-image: url("/images/yellow\ girl.png");
+  background-image: url("./images/yellow\ girl.png");
   background-position: center;
   background-repeat: no-repeat;
   height: 540px;
@@ -478,27 +478,27 @@ div ul li {
   padding: 5px;
 }
 .whitegirl {
-  background-image: url("/images/white\ girl.png");
+  background-image: url("./images/white\ girl.png");
   background-position: center;
   background-repeat: no-repeat;
 }
 .parse {
-  background-image: url(/images/perse.png);
+  background-image: url(./images/perse.png);
   background-position: center;
   background-repeat: no-repeat;
 }
 .item4img {
-  background-image: url(/images/item4img.png);
+  background-image: url(./images/item4img.png);
   background-position: center;
   background-repeat: no-repeat;
 }
 .item5img {
-  background-image: url(/images/item5img.png);
+  background-image: url(./images/item5img.png);
   background-position: center;
   background-repeat: no-repeat;
 }
 .item6img {
-  background-image: url(/images/item6img.png);
+  background-image: url(./images/item6img.png);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -540,13 +540,13 @@ div ul li {
   background-size: cover;
 }
 .img11 {
-  background-image: url("/images/girl1.png");
+  background-image: url("./images/girl1.png");
 }
 .img222 {
-  background-image: url("/images/girl2\ \(2\).png");
+  background-image: url("./images/girl2\ \(2\).png");
 }
 .img3 {
-  background-image: url("/images/girl3.png");
+  background-image: url("./images/girl3.png");
 }
 .floatingcolors {
   /* border: 1px solid white; */
@@ -860,19 +860,19 @@ hr {
 }
 
 #item1 {
-  background: url(/images/Rectangle\ 10\ \(1\).png);
+  background: url(./images/Rectangle\ 10\ \(1\).png);
   background-size: cover;
   background-position: center;
 }
 
 #item2 {
-  background: url(/images/Rectangle\ 9.png);
+  background: url(./images/Rectangle\ 9.png);
   background-size: cover;
   background-position: center;
 }
 
 #item3 {
-  background: url(/images/Rectangle\ 11.png);
+  background: url(./images/Rectangle\ 11.png);
   background-size: cover;
   background-position: center;
 }
